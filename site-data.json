@@ -1,0 +1,329 @@
+{
+  "business": {
+    "name": "Dallas Auto Repair",
+    "shortName": "Dallas Auto Repair",
+    "tagline": "Expert Auto Repair in Dallas, TX – Reliable Service You Can Trust",
+    "niche": "Auto Mechanic",
+    "phone": "(214) 398-9911",
+    "address": "9110 Bruton Rd, Dallas, TX 75217",
+    "city": "Dallas, TX",
+    "hours": "Mon-Fri 7:30 AM - 5:30 PM, Sat 8:00 AM - 12:00 PM",
+    "ctaLabel": "Schedule Appointment",
+    "headerCta": "Call Now"
+  },
+  "seo": {
+    "title": "Dallas Auto Repair | Trusted Mechanic in Dallas, TX | (214) 398-9911",
+    "description": "Dallas Auto Repair offers expert auto maintenance and repair in Dallas, TX. From brake service to engine diagnostics, our certified mechanics deliver quality work. Call (214) 398-9911 today!"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Dallas's Trusted Auto Repair Shop",
+      "headline": "Keep Your Car Running Smoothly with Expert Auto Repair in Dallas, TX",
+      "subheadline": "From routine maintenance to complex repairs, our certified technicians provide honest, high-quality service to keep you safe on the road.",
+      "primaryCta": "Schedule Appointment",
+      "secondaryCta": "Call (214) 398-9911"
+    },
+    "stats": [
+      {
+        "value": "20+",
+        "label": "Years Experience"
+      },
+      {
+        "value": "5000+",
+        "label": "Cars Serviced"
+      },
+      {
+        "value": "100%",
+        "label": "Satisfaction Guarantee"
+      },
+      {
+        "value": "4.9",
+        "label": "Customer Rating"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Full-Service Auto Repair",
+        "title": "Comprehensive Car Care Under One Roof",
+        "body": "At Dallas Auto Repair, we handle everything from oil changes to engine overhauls. Our state-of-the-art diagnostic equipment and ASE-certified mechanics ensure your vehicle gets the care it deserves.",
+        "bullets": [
+          "Advanced computer diagnostics for accurate repairs",
+          "Factory-grade parts and fluids for lasting performance",
+          "Transparent pricing with no hidden fees",
+          "Warranty on all parts and labor"
+        ],
+        "reverse": false,
+        "cardLabel": "Our Promise",
+        "cardTitle": "Honest, Reliable Service",
+        "cardBody": "We believe in clear communication and fair pricing. You'll never get upsold on unnecessary repairs."
+      },
+      {
+        "eyebrow": "Convenient & Customer-Focused",
+        "title": "Auto Repair That Fits Your Schedule",
+        "body": "We know your time is valuable. That's why we offer flexible appointment times, quick turnaround on most repairs, and a comfortable waiting area with free Wi-Fi.",
+        "bullets": [
+          "Early morning drop-offs available",
+          "Shuttle service to work or home",
+          "Digital inspection reports with photos",
+          "Online appointment scheduling"
+        ],
+        "reverse": true,
+        "cardLabel": "Quick Turnaround",
+        "cardTitle": "Most Repairs Done Same Day",
+        "cardBody": "We prioritize efficiency without sacrificing quality. Get back on the road fast."
+      }
+    ],
+    "whyTitle": "Why Choose Dallas Auto Repair?",
+    "whyChooseUs": [
+      {
+        "title": "Certified Technicians",
+        "description": "Our team holds ASE certifications and undergoes continuous training to stay current with the latest automotive technology."
+      },
+      {
+        "title": "Quality Parts & Equipment",
+        "description": "We use only OEM or high-quality aftermarket parts, backed by industry-leading warranties."
+      },
+      {
+        "title": "Transparent Communication",
+        "description": "You'll receive a detailed estimate before any work begins, and we'll explain every recommendation in plain language."
+      },
+      {
+        "title": "Customer Satisfaction Guaranteed",
+        "description": "If you're not happy with our service, we'll make it right. Your trust is our top priority."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "They diagnosed my check engine light quickly and fixed it at a fair price. I'll definitely be back.",
+        "author": "Mark T.",
+        "role": "Lakewood Resident"
+      },
+      {
+        "quote": "Professional, honest, and fast. They had my brakes done in half a day. Highly recommend.",
+        "author": "Lisa M.",
+        "role": "Oak Lawn Resident"
+      },
+      {
+        "quote": "Dallas Auto Repair has been taking care of my family's cars for years. Always reliable and friendly.",
+        "author": "James R.",
+        "role": "Pleasant Grove Resident"
+      }
+    ],
+    "cta": {
+      "headline": "Ready to Get Your Car Back in Top Shape?",
+      "subheadline": "Schedule your appointment today and experience the Dallas Auto Repair difference.",
+      "primaryCta": "Book Online",
+      "secondaryCta": "Call (214) 398-9911"
+    }
+  },
+  "servicesPage": {
+    "intro": "At Dallas Auto Repair, we offer a full range of auto repair and maintenance services to keep your vehicle running at its best. From routine oil changes to major engine repairs, our certified technicians have the skills and equipment to handle it all."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Engine Diagnostics & Repair",
+      "shortDescription": "Accurate diagnostics and expert engine repair to restore performance.",
+      "longDescription": "When your check engine light comes on or your car isn't running right, trust our advanced diagnostic tools to pinpoint the issue. We repair everything from minor sensor problems to major engine overhauls.",
+      "benefits": [
+        "Restored engine performance and fuel efficiency",
+        "Extended engine life with proper repairs",
+        "Peace of mind with a detailed diagnostic report",
+        "Warranty on all engine repairs"
+      ],
+      "process": [
+        {
+          "title": "Computer Scan",
+          "description": "We connect your vehicle to our diagnostic system to read trouble codes and live data."
+        },
+        {
+          "title": "Inspection & Analysis",
+          "description": "Our technician performs a thorough inspection to confirm the root cause of the problem."
+        },
+        {
+          "title": "Repair & Verification",
+          "description": "We complete the repair using quality parts, then test-drive to ensure everything is working perfectly."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How long does an engine diagnostic take?",
+          "answer": "Most diagnostic scans take about an hour. Complex issues may require additional time for thorough analysis."
+        },
+        {
+          "question": "Do you offer loaner cars while my engine is being repaired?",
+          "answer": "We have a shuttle service to drop you off at home or work. Please ask our staff for details."
+        }
+      ],
+      "slug": "engine-diagnostics-repair"
+    },
+    {
+      "icon": "02",
+      "title": "Brake Service & Repair",
+      "shortDescription": "Keep your brakes responsive and safe with our expert service.",
+      "longDescription": "Your brakes are your car's most critical safety system. We inspect pads, rotors, calipers, and fluid to ensure reliable stopping power. Whether you need a pad replacement or a full brake overhaul, we've got you covered.",
+      "benefits": [
+        "Shorter stopping distances and safer driving",
+        "Elimination of squeaks, vibrations, and pulling",
+        "Extended brake component life",
+        "Free brake inspection with any service"
+      ],
+      "process": [
+        {
+          "title": "Visual Inspection",
+          "description": "We check pad thickness, rotor condition, caliper function, and brake fluid level."
+        },
+        {
+          "title": "Measurement & Assessment",
+          "description": "We measure rotor runout and pad wear to determine if replacement is needed."
+        },
+        {
+          "title": "Quality Installation",
+          "description": "We install premium brake parts and perform a road test to confirm smooth, quiet operation."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How often should I replace my brake pads?",
+          "answer": "Typically every 30,000 to 70,000 miles, depending on driving habits and conditions. We'll check them at every visit."
+        },
+        {
+          "question": "What causes a brake pedal to feel spongy?",
+          "answer": "Air in the brake lines or low fluid. We can bleed the system and top off fluid to restore firm pedal feel."
+        }
+      ],
+      "slug": "brake-service-repair"
+    },
+    {
+      "icon": "03",
+      "title": "Oil Change & Routine Maintenance",
+      "shortDescription": "Keep your engine healthy with regular oil changes and maintenance.",
+      "longDescription": "Regular oil changes are the best way to extend your engine's life. We use quality oil and filters, and our multi-point inspection catches small issues before they become big problems.",
+      "benefits": [
+        "Improved engine lubrication and reduced wear",
+        "Better fuel economy and performance",
+        "Early detection of potential issues",
+        "Convenient scheduling and quick service"
+      ],
+      "process": [
+        {
+          "title": "Drain Old Oil",
+          "description": "We drain the old oil and replace the oil filter."
+        },
+        {
+          "title": "Refill with Fresh Oil",
+          "description": "We add the correct grade and quantity of oil for your vehicle."
+        },
+        {
+          "title": "Multi-Point Inspection",
+          "description": "We check fluid levels, belts, hoses, tires, and lights to keep your car in top shape."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "What type of oil does my car need?",
+          "answer": "We'll use the manufacturer-recommended viscosity and type, whether conventional, synthetic blend, or full synthetic."
+        },
+        {
+          "question": "How often should I get an oil change?",
+          "answer": "Most modern cars can go 5,000-7,500 miles between changes. We'll advise based on your vehicle and driving habits."
+        }
+      ],
+      "slug": "oil-change-routine-maintenance"
+    },
+    {
+      "icon": "04",
+      "title": "AC & Heating System Service",
+      "shortDescription": "Stay comfortable year-round with expert climate control repair.",
+      "longDescription": "When your car's AC blows warm air or the heater isn't working, our technicians can diagnose and repair the issue. We service compressors, condensers, evaporators, and more.",
+      "benefits": [
+        "Restored cabin comfort in all seasons",
+        "Proper refrigerant levels for efficient cooling",
+        "Elimination of strange odors or noises",
+        "System performance check included"
+      ],
+      "process": [
+        {
+          "title": "System Inspection",
+          "description": "We check refrigerant pressure, compressor operation, and vent temperatures."
+        },
+        {
+          "title": "Leak Detection",
+          "description": "We use electronic leak detectors and UV dye to find refrigerant leaks."
+        },
+        {
+          "title": "Repair & Recharge",
+          "description": "We repair or replace faulty components, then recharge the system to manufacturer specifications."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Why is my AC blowing warm air?",
+          "answer": "Common causes include low refrigerant, a faulty compressor, or a clogged condenser. We'll diagnose the exact issue."
+        },
+        {
+          "question": "How often should I service my car's AC?",
+          "answer": "We recommend an AC check every two years to ensure proper cooling and catch small issues early."
+        }
+      ],
+      "slug": "ac-heating-system-service"
+    }
+  ],
+  "about": {
+    "headline": "Your Trusted Auto Repair Experts in Dallas",
+    "mission": "Our mission is to provide honest, high-quality auto repair services that keep our customers safe and satisfied. We believe in transparency, integrity, and craftsmanship.",
+    "story": [
+      "Dallas Auto Repair was founded on the belief that car owners deserve a repair shop they can rely on. With over two decades of experience, our team has built a reputation for diagnosing problems accurately and fixing them right the first time. We treat every car as if it were our own, using the best tools and techniques available.",
+      "Located at 9110 Bruton Rd, we've become a neighborhood staple, serving drivers from Pleasant Grove to Lakewood. Our commitment to continuous learning and customer education sets us apart. We don't just fix cars—we empower our customers with knowledge about their vehicles."
+    ],
+    "highlight": {
+      "stat": "20+",
+      "label": "Years of Service"
+    },
+    "coreValues": [
+      {
+        "title": "Integrity",
+        "description": "We always recommend only necessary repairs and provide transparent pricing."
+      },
+      {
+        "title": "Quality",
+        "description": "Every repair is performed to the highest standards using premium parts."
+      },
+      {
+        "title": "Respect",
+        "description": "We treat our customers and their vehicles with the utmost care and professionalism."
+      },
+      {
+        "title": "Community",
+        "description": "We are proud to serve the Dallas area and give back whenever we can."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Get in Touch with Dallas Auto Repair",
+    "subheadline": "Ready to schedule your next service? Call us or fill out the form below.",
+    "primaryCta": "Call (214) 398-9911",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Dallas",
+      "Pleasant Grove",
+      "Lakewood",
+      "Oak Lawn",
+      "Balch Springs",
+      "Mesquite",
+      "Garland"
+    ]
+  },
+  "social_proof": {
+    "rating": 3.7,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Auto Mechanic",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:2143989911",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
